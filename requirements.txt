@@ -1,6 +1,8 @@
 attrs==21.4.0
+coverage==6.4.2
 cycler==0.11.0
 fonttools==4.34.4
+-e git+https://github.com/nrat001/python-intermediate-inflammation@a7e9921ab975590c6cb387a0efd2bf0b07e55d43#egg=inflammation_analysis
 iniconfig==1.1.1
 kiwisolver==1.4.3
 matplotlib==3.5.2
@@ -11,6 +13,7 @@ pluggy==1.0.0
 py==1.11.0
 pyparsing==3.0.9
 pytest==7.1.2
+pytest-cov==3.0.0
 python-dateutil==2.8.2
 six==1.16.0
 tomli==2.0.1
